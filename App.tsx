@@ -48,7 +48,6 @@ const App = () => {
             </TouchableOpacity>
 
             <TouchableOpacity
-              onPress={() => Alert.alert("ME AMAS ?")}
               className="absolute p-3 border right-6 top-28 bg-[#232323] rounded-lg"
             >
               <Text className="text-white text-base text-center">
